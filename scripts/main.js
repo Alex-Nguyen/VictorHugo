@@ -158,8 +158,8 @@ d3.json("data/lesmis.json", function (error, graph) {
     var start_time = performance.now();
 //processing
 //    var step = edge_betweenness_centrality(graph, k = num_n, normalized = true, weight = true, virtual = false);
-//     var step = _betweennness_virtual(graph);
-    var step = between_e(graph);
+    var step = _betweennness_virtual(graph);
+    // var step = between_e(graph);
     var end_time_b = performance.now();
     var max_lv = step.length + 1;
 // tree
