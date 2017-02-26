@@ -1,0 +1,78 @@
+[
+  {
+    "id": 200,
+    "values": [
+      {
+        "key": "Betweenness edge",
+        "value": [
+          0,
+          14
+        ]
+      },
+      {
+        "key": "Modularity Q",
+        "value": [
+          14,
+          14.015
+        ]
+      }
+    ]
+  },
+  {
+    "id": 500,
+    "values": [
+      {
+        "key": "Betweenness edge",
+        "value": [
+          0,
+          15
+        ]
+      },
+      {
+        "key": "Modularity Q",
+        "value": [
+          15,
+          15.092
+        ]
+      }
+    ]
+  },
+  {
+    "id": 970,
+    "values": [
+      {
+        "key": "Betweenness edge",
+        "value": [
+          0,
+          120
+        ]
+      },
+      {
+        "key": "Modularity Q",
+        "value": [
+          120,
+          120.789
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1500,
+    "values": [
+      {
+        "key": "Betweenness edge",
+        "value": [
+          0,
+          120
+        ]
+      },
+      {
+        "key": "Modularity Q",
+        "value": [
+          120,
+          120.789
+        ]
+      }
+    ]
+  }
+]
